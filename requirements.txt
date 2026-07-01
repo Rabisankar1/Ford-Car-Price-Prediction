@@ -1,0 +1,6 @@
+Ford-Car-Price-Prediction
+│
+├── CarPricePrediction.ipynb
+├── ford.csv
+├── README.md
+└── requirements.txt
